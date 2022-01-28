@@ -8,9 +8,7 @@ const Search = () => {
     const Searchthis = (te) =>{
         console.log(te)
     }
-    const inputProps = {
-        step: 300,
-    };
+    
 
   
   return (
